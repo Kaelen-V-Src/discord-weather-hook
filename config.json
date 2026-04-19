@@ -1,0 +1,5 @@
+{
+  "discordBotToken": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "weatherAPIKey": "YOUR_WEATHER_API_KEY_HERE",
+  "location": "YOUR_LOCATION_HERE"
+}
